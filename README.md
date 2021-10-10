@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/open-public-transport/open-public-transport-data">
-    <img src="./logo_with_text.png" alt="Logo" height="80">
+    <img src="img/logo_with_text.png" alt="Logo" height="80">
   </a>
 
   <h1 align="center">Open Public Transport (Data)</h1>
@@ -26,6 +26,13 @@ tbd
 
 tbd
 
+
+## Structure
+
+<p align="center">
+  <img src="img/data.png" alt="Logo" height="100">
+</p>
+
 ## Usage
 
 tbd
@@ -45,10 +52,10 @@ Between September 2021 through February 2022 this project is founded by [German 
 
 <p align="center">
   <a href="https://www.bmbf.de/bmbf/en/home/home_node.html">
-    <img src="./logo-bmbf.svg" alt="Logo" height="100">
+    <img src="img/logo-bmbf.svg" alt="Logo" height="100">
   </a>
   <a href="https://prototypefund.de/">
-    <img src="./logo-ptf.svg" alt="Logo" height="80">
+    <img src="img/logo-ptf.svg" alt="Logo" height="80">
   </a>
 </p>
 
