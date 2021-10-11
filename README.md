@@ -37,7 +37,7 @@ See the [open issues](https://github.com/open-public-transport/open-public-trans
 
 ## Contributing
 
-tbd
+Follow our [contribution guidelines](./CONTRIBUTING.md).
 
 ## Funding
 
