@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-11-07T15:46:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173639363",
+        "access": "permissive",
+        "landuse": "garden"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.8431807,
+              53.5515658
+            ],
+            [
+              9.8426371,
+              53.5516215
+            ],
+            [
+              9.8423386,
+              53.5515971
+            ],
+            [
+              9.8421436,
+              53.5513321
+            ],
+            [
+              9.8422624,
+              53.5512397
+            ],
+            [
+              9.8429506,
+              53.5510061
+            ],
+            [
+              9.8431807,
+              53.5515658
+            ]
+          ]
+        ]
+      },
+      "id": "way/173639363"
+    }
+  ]
+}
